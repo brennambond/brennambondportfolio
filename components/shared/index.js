@@ -5,5 +5,15 @@ import Footer from "./Footer";
 import Hero from "./Hero";
 import Navbar from "./Navbar";
 import Projects from "./Projects";
+import MobileMenu from "./MobileMenu";
 
-export { StarsCanvas, About, Contact, Footer, Hero, Navbar, Projects };
+export {
+  StarsCanvas,
+  About,
+  Contact,
+  Footer,
+  Hero,
+  Navbar,
+  Projects,
+  MobileMenu,
+};
