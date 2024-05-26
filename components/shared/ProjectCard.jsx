@@ -1,6 +1,5 @@
 import { HiEye, HiLink } from "react-icons/hi";
-
-import ProjectsAccordian from "./ProjectsAccordian";
+import { ProjectsAccordian } from ".";
 
 const ProjectCard = ({ imgUrl, gitUrl, previewUrl }) => {
   return (

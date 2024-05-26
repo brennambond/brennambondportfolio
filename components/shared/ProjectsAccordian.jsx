@@ -1,13 +1,6 @@
 import Link from "next/link";
 
 import {
-  Accordion,
-  AccordionContent,
-  AccordionItem,
-  AccordionTrigger,
-} from "../ui/accordion";
-
-import {
   SiReact,
   SiNextdotjs,
   SiNodedotjs,
@@ -15,6 +8,12 @@ import {
   SiMongodb,
   SiExpress,
 } from "react-icons/si";
+import {
+  Accordion,
+  AccordionContent,
+  AccordionItem,
+  AccordionTrigger,
+} from "../ui/accordian";
 
 const ProjectsAccordian = () => {
   return (
