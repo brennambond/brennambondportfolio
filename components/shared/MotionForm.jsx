@@ -72,7 +72,7 @@ const MotionForm = () => {
       className='z-[1] flex w-full lg:w-[60%] flex-col sm:max-w-[85%]'
     >
       <form
-        className='flex flex-col gap-8 px-6 '
+        className='flex flex-col gap-8 xl:gap-12 px-6 '
         ref={formRef}
         onSubmit={handleSubmit}
       >

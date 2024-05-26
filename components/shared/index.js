@@ -8,6 +8,7 @@ import Projects from "./Projects";
 import MobileMenu from "./MobileMenu";
 import ProjectsAccordian from "./ProjectsAccordian";
 import ProjectCard from "./ProjectCard";
+import MotionForm from "./MotionForm";
 
 export {
   StarsCanvas,
@@ -20,4 +21,5 @@ export {
   MobileMenu,
   ProjectsAccordian,
   ProjectCard,
+  MotionForm,
 };
