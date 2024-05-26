@@ -6,6 +6,8 @@ import Hero from "./Hero";
 import Navbar from "./Navbar";
 import Projects from "./Projects";
 import MobileMenu from "./MobileMenu";
+import ProjectsAccordian from "./ProjectsAccordian";
+import ProjectCard from "./ProjectCard";
 
 export {
   StarsCanvas,
@@ -16,4 +18,6 @@ export {
   Navbar,
   Projects,
   MobileMenu,
+  ProjectsAccordian,
+  ProjectCard,
 };
