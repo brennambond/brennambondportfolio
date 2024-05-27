@@ -1,14 +1,16 @@
 <div align="center">
   <br />
-      <img className='w-[200px] h-[200px]' src="/public/assets/images/logo.png" alt="Project Banner">
-       <p className='text-pink-600 text-2xl font-semibold block'>PORTFOLIO</p>
+      <img width=350 height=350 src="/public/assets/images/logo.png" alt="Project Banner">
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-Next_JS_14-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion" />
   </div>
 
-  <h3 align="center">My Personal Developer Portfolio, built with Next.js, React, Tailwind CSS, and Framer Motion</h3>
+  <h3 align="center">My personal developer portfolio, built with Next.js, React, Tailwind CSS, and Framer Motion</h3>
 </div>
 
 ## <a name="table">Table of Contents</a>
@@ -25,7 +27,7 @@ This portfolio application was built with Next.js 14 and React to showcase my we
 ## <a name="tech-stack">Tech Stack</a>
 
 - Next.js
-- TypeScript
+- React
 - TailwindCSS
 - Framer Motion
 
@@ -44,8 +46,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/brennambond/brennambondportfolio
+cd brennambondportfolio
 ```
 
 **Installation**
