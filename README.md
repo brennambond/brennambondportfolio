@@ -1,6 +1,7 @@
 <div align="center">
   <br />
-      <img src="/public/assets/images/logo.png" alt="Project Banner">
+      <img className='w-[200px] h-[200px]' src="/public/assets/images/logo.png" alt="Project Banner">
+       <p className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-pink-600 text-2xl font-semibold block'>PORTFOLIO</p>
   <br />
 
   <div>
