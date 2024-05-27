@@ -1,7 +1,7 @@
 <div align="center">
   <br />
       <img className='w-[200px] h-[200px]' src="/public/assets/images/logo.png" alt="Project Banner">
-       <p className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-pink-600 text-2xl font-semibold block'>PORTFOLIO</p>
+       <p className='text-pink-600 text-2xl font-semibold block'>PORTFOLIO</p>
   <br />
 
   <div>
@@ -14,7 +14,7 @@
 ## <a name="table">Table of Contents</a>
 
 1. [Introduction](#introduction)
-2. [Features](#features)
+2. [Tech Stack](#tech-stack)
 3. [Quick Start](#quick-start)
 4. [Links](#links)
 
